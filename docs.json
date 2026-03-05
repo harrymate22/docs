@@ -29,7 +29,7 @@
         "groups": [
           {
             "group": "Starts Here",
-            "openapi": "sk-abcdef1234567890abcdef1234567890abcdef12",
+            "openapi": "api-reference/openapi.json",
             "pages": [
               "index",
               "quickstart",
