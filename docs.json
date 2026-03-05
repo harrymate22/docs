@@ -9,12 +9,27 @@
   },
   "favicon": "/images/assignix_logo_graident.webp",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Documentation",
+          "icon": "book-open-cover",
+          "href": "https://mintlify.com/docs"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "newspaper",
+          "href": "https://mintlify.com/blog"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Starts Here",
+            "openapi": "sk-abcdef1234567890abcdef1234567890abcdef12",
             "pages": [
               "index",
               "quickstart",
@@ -67,21 +82,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "navbar": {
     "links": [
@@ -110,9 +111,8 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/assignix",
+      "linkedin": "https://linkedin.com/company/assignix"
     }
   },
   "fonts": {
@@ -122,5 +122,11 @@
     "body": {
       "family": "Nunito"
     }
+  },
+  "appearance": {
+    "default": "light"
+  },
+  "api": {
+    "openapi": "sk-abcdef1234567890abcdef1234567890abcdef12"
   }
 }
