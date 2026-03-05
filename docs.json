@@ -129,5 +129,9 @@
       "dark": "#000"
     }
   },
-  "favicon": "/images/assignix_light-Photoroom.png"
+  "favicon": "/images/assignix_light-Photoroom.png",
+  "logo": {
+    "light": "/images/assignix_logo_graident.webp",
+    "dark": "/images/assignix_light-Photoroom.png"
+  }
 }
