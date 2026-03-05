@@ -4,7 +4,7 @@
   "name": "Assignix Grow",
   "colors": {
     "primary": "#4f2273",
-    "light": "#6406c9",
+    "light": "#fff",
     "dark": "#531480"
   },
   "favicon": "/images/assignix_logo_graident.webp",
