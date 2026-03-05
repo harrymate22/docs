@@ -29,7 +29,6 @@
         "groups": [
           {
             "group": "Starts Here",
-            "openapi": "api-reference/openapi.json",
             "pages": [
               "index",
               "quickstart",
