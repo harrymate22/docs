@@ -7,7 +7,6 @@
     "light": "#fff",
     "dark": "#531480"
   },
-  "favicon": "/images/assignix_logo_graident.webp",
   "navigation": {
     "global": {
       "anchors": [
@@ -124,5 +123,11 @@
   },
   "appearance": {
     "default": "light"
-  }
+  },
+  "background": {
+    "color": {
+      "dark": "#000"
+    }
+  },
+  "favicon": "/images/assignix_light-Photoroom.png"
 }
